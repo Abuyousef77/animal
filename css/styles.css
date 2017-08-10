@@ -1,0 +1,59 @@
+
+.elephant, .tiger, .whale {
+  display: none;
+}
+
+body {
+  background-color: skyblue
+}
+
+div#pic1 {
+    width: 30%;
+    padding: 50px;
+    border: 5px solid gray;
+    margin: 0;
+}
+
+div#pic1 {
+  vertical-align: middle;
+  padding: 40px;
+  display: table-cell;
+}
+
+#pic1 img {
+  max-width: 100%;
+}
+
+div#pic2 {
+    width: 30%;
+    padding: 50px;
+    border: 5px solid gray;
+    margin: 0;
+}
+
+div#pic2 {
+  vertical-align: middle;
+  padding: 40px;
+  display: table-cell;
+}
+
+#pic2 img {
+  max-width: 100%;
+}
+
+div#pic3 {
+    width: 30%;
+    padding: 50px;
+    border: 5px solid gray;
+    margin: 0;
+}
+
+div#pic3 {
+  vertical-align: middle;
+  padding: 40px;
+  display: table-cell;
+}
+
+#pic3 img {
+  max-width: 100%;
+}
